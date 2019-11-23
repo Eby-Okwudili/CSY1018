@@ -13,6 +13,7 @@ img {
     border-style: none;
     border-radius: 100%;
     filter: grayscale(0);
+    width:20%;
 }
 .container:hover{
     filter: grayscale(1);
@@ -36,7 +37,7 @@ nav{
 }
 
 ul{
-    overflow: auto;
+    overflow: hidden;
     list-style-type: none;
 }
 
