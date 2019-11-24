@@ -18,7 +18,7 @@ img {
 .container:hover{
     filter: grayscale(1);
     border-style: none;
-    border-radius: 100%;
+    border-radius: 50%;
     transition: background-size 0.3s ease;
     filter: grayscale(1);
     transition: background-size 0.3s ease; 
